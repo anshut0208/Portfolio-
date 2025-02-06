@@ -232,19 +232,19 @@ a:hover{
 
 @keyframes slider {
     0%{
-        background-image: url(/Assests/Screenshot_24-1-2025_141118_.jpeg);
+        background-image: url(Assests/Screenshot_24-1-2025_141118_.jpeg);
     }
     33.33%{
-        background-image: url(/Assests/Screenshot_24-1-2025_14912_.jpeg);
+        background-image: url(Assests/Screenshot_24-1-2025_14912_.jpeg);
     }
     66.66%{
-        background-image: url(/Assests/Screenshot_24-1-2025_14935_.jpeg);
+        background-image: url(Assests/Screenshot_24-1-2025_14935_.jpeg);
     }
     100%{
-        background-image: url(/Assests/web\ dev\ certificate.jpg);
+        background-image: url(Assests/web\ dev\ certificate.jpg);
     }
     100%{
-        background-image: url(/Assests/Typing\ certificate.jpeg);
+        background-image: url(Assests/Typing\ certificate.jpeg);
     }
     
 }
